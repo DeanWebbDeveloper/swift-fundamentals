@@ -1,0 +1,24 @@
+
+                        Contents
+
+--------------------------------------------------------
+
+
+1       -   A Few More Reasons to Learn Swift
+
+    1.4         -   Writing and Running Swift in a Playground
+
+2       -   Piece by Piece: What Your Data Means
+
+    2.1         -   Understanding Variables in Swift
+    2.2         -   Constants: Why They're Important
+    2.4         -   Converting in Swift: When It Happens (And When It Doesn't)
+    2.5         -   Making Conversion Happen
+    2.6         -   Optionals — An Introduction
+    2.7         -   Unwrapping Your Optionals
+    2.8         -   Creating and Using Arrays
+
+3       -   Shaping the Path: Controlling the Flow of Your Code
+
+    3.1         -   The Good Old 'if' Statement and What's Different About It
+    3.2         -   Writing Switch Statements
