@@ -22,3 +22,21 @@
 
     3.1         -   The Good Old 'if' Statement and What's Different About It
     3.2         -   Writing Switch Statements
+    3.3         -   Creating Loops and Making Ranges
+    3.4	        -   Sidebar: Taking Longer Strides
+    3.5         -   Sidebar: Using String Interpolation
+
+4       -   Constructing Code: Who Does What? - Creating Functions
+
+    4.1         -   Defining and Calling Functions
+    4.2         -   Returning Values
+    4.4         -   Correctly Ignoring Return Values
+    4.5         -   Customizing Argument Labels
+    4.6         -   Naming Functions in Swift
+
+5       -   Taking Data Types Further: When to Limit, Describe, and Collect
+
+    5.1         -   Using Enumerations
+    5.2         -   Defining and Using Structs
+    5.3         -   Working with Dictionaries
+    5.4         -   Creating and Decomposing Tuples

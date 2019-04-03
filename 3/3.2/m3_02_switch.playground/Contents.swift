@@ -1,4 +1,4 @@
-// Switch statements
+ // Switch statements
 
 let volcanoExplosivityIndex: Int // could be 0 to 8
 volcanoExplosivityIndex = 3
