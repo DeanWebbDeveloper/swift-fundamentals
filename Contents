@@ -40,3 +40,24 @@
     5.2         -   Defining and Using Structs
     5.3         -   Working with Dictionaries
     5.4         -   Creating and Decomposing Tuples
+
+6       -   Making Sense of Closures
+
+    6.2         -   Exploring Closure Scenarios: What They Are, and Where You Use Them
+    6.3         -   Using Closure Syntax: How to Write (and Read) Them
+
+7       -   Using Classes and Objects in Swift
+
+    7.1         -   Defining Classes
+    7.2         -   Adding Initializers
+    7.3         -   Revisiting Classes and Structs
+    7.4         -   Implementing Inheritance and Overriding Methods
+    7.5         -   Adding Functionality with Extensions
+    7.6         -   Using Computed Properties
+
+8       -   Introducing Protocols
+
+    8.1         -   Introducing Protocols
+    8.2         -   Defining and Handling Errors in Swift
+    8.3         -   Dealing with Errors with Do-Catch and Try Statements
+    8.4         -   Using Guard and Defer
