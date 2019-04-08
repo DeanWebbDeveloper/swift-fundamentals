@@ -60,4 +60,3 @@
     8.1         -   Introducing Protocols
     8.2         -   Defining and Handling Errors in Swift
     8.3         -   Dealing with Errors with Do-Catch and Try Statements
-    8.4         -   Using Guard and Defer
